@@ -1,0 +1,24 @@
+#top
+{
+    border-style: solid;
+    border-color: coral;
+    border-width: 6px;
+    width:50%;
+    margin-left: 650px;
+    background-color: cornflowerblue;
+    text-align: center;
+    padding-left: 10%;
+}
+#bottom
+{
+    border-style: solid;
+    border-color: coral;
+    border-width: 6px;
+    width:50%;
+    margin-top: 400px;
+    margin-left: 650px;
+
+}
+h1{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}

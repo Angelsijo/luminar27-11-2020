@@ -1,0 +1,54 @@
+/* extension .css*/
+h1
+{
+    color:blueviolet;
+    text-align: center;
+}
+#one
+{
+    color:rgb(52, 235, 103);
+    text-align: center ;
+}
+
+
+body{
+    background-image: url("ipl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+div{
+    text-align: justify;
+    border-style:solid;
+    border-color: crimson;
+    border-width: 5px;
+    background-color: yellow;
+    width:50%;
+    margin:auto;
+   /* background-image: url("csk.jpg");*/
+}
+#mi
+{
+    color:aqua;
+    border-style:solid;
+    border-color: rgb(203, 20, 220);
+    border-width: 5px;
+    background-color: rgb(68, 36, 209);
+    width:50%;
+    margin:auto;
+    /*background-image: url("mi.jpg")*/
+}
+.team
+{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 5px;
+    background-color: rgba(212, 222, 18,0.500);
+}
+
+li{
+    margin-left: 250px;
+}
+div h3{
+    text-align: center;
+}
